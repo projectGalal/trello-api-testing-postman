@@ -51,4 +51,4 @@ A Postman collection with 15 requests for the ReqRes practice API, covering GET,
 
 ## Tools
 
-Postman, Trello REST API
+Postman
