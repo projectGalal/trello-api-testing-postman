@@ -38,6 +38,10 @@ The key and token in this repository are placeholders. Never commit real credent
 - Writing assertions for the status code and response body.
 -----------------------------------
 ## Second project: ReqRes API Testing
+----------------->
+| File | Description |
+|---|---|
+| [Trello Apis.postman_collection.json](https://github.com/projectGalal/trello-api-testing-postman/blob/main/reqres.postman_collection.json) | Postman collection (v2.1) |
 
 A Postman collection with 15 requests for the ReqRes practice API, covering GET, POST, PUT, PATCH and DELETE.
 
