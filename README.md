@@ -20,7 +20,7 @@ A Postman collection that tests the Trello REST API across the full lifecycle of
 
 | File | Description |
 |---|---|
-| [trello-collection.json](Trello Apis.postman_collection.json) | Postman collection (v2.1) |
+| [trello-collection.json]([Trello Apis.postman_collection.json](https://github.com/projectGalal/trello-api-testing-postman/blob/main/Trello%20Apis.postman_collection.json)) | Postman collection (v2.1) |
 
 ## How to run
 
